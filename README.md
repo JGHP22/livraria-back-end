@@ -8,7 +8,7 @@ Instruções
 
 PARTE 1: MySQL
 
-Devemos abrir o MySQL e criar uma rota. Após isso, crie um banco de dados:
+Devemos abrir o MySQL e criar uma Database:
 
 ```python 
 create database "nome_do_banco_de_dados"

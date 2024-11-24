@@ -10,6 +10,8 @@ PARTE 1: MySQL
 
 Devemos abrir o MySQL e criar uma Database:
 
+![a](https://github.com/user-attachments/assets/cb26af1e-f2cd-4052-b9ac-350f12c2a71e)
+
 ```python 
 create database "nome_do_banco_de_dados"
 ```
@@ -21,6 +23,8 @@ Após isso, você pode encerrar o MySQL.
 Após terminar o MySQL, vamos para o VS Code.
 
 1- Vá para onde você clonou o repositório e abra o cmd.
+
+![a](https://github.com/user-attachments/assets/55411b74-23ee-4e35-bb09-950e354cc1fd)
 
 2- Será necessário entrar na pasta do repositório. Para isso, digite no cmd:
 

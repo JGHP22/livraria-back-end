@@ -59,7 +59,7 @@ DB_NAME=livraria
 ```python
 DB_NAME=livraria
 ```
-```shell
+```.env
 DB_Root=
 ```
 

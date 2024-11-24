@@ -22,7 +22,7 @@ Após terminar o MySQL, vamos para o VS Code.
 
 2- Será necessário entrar na pasta do repositório. Para isso, digite no cmd:
 
-´cd livraria-back-end´
+```cd livraria-back-end```
 
 3-faça a instalação do npm:
 

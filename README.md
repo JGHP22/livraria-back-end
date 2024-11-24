@@ -47,22 +47,13 @@ Você terá que alterar algumas partes do código para funcionar.
 
 Vá no arquivo .env e altere o codigo para suas configurações, por exemplo:
 
-```python
-DB_NAME=livraria
-```
-```python
-DB_NAME=livraria
-```
-```python
-DB_NAME=livraria
-```
-```python
-DB_NAME=livraria
-```
 ```.env
-DB_Root=
+DB_NAME="nome da database"
+DB_USER="nome do seu usuario do Mysql"
+DB_PASS="sua senha"
+DB_HOST=localhost
+DB_PORT=porta de conexão (padrão: 3306)"
 ```
-
 ## Objetivo
 Buscamos aprimorar nossos conhecimentos sobre desenvolvimento de API e aprimorar habilidades de back-end para trabalhos futuros.
 

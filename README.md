@@ -45,10 +45,22 @@ npm run dev
 
 Você terá que alterar algumas partes do código para funcionar.
 
-Vá no arquivo .env e altere o código DB_NAME para o nome do seu banco de dados, por exemplo:
+Vá no arquivo .env e altere o codigo para suas configurações, por exemplo:
 
 ```python
 DB_NAME=livraria
+```
+```python
+DB_NAME=livraria
+```
+```python
+DB_NAME=livraria
+```
+```python
+DB_NAME=livraria
+```
+```shell
+DB_Root=
 ```
 
 ## Objetivo

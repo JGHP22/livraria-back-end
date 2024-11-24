@@ -48,11 +48,11 @@ Você terá que alterar algumas partes do código para funcionar.
 Vá no arquivo .env e altere o codigo para suas configurações, por exemplo:
 
 ```.env
-DB_NAME="nome da database"
-DB_USER="nome do seu usuario do Mysql"
-DB_PASS="sua senha"
-DB_HOST="Seu endereço de Ip ou localhost (Ip local da sua maquina)"
-DB_PORT=porta de conexão (padrão do Mysql: 3306)"
+DB_NAME="Nome da sua database"
+DB_USER="Nome do seu usuário do banco"
+DB_PASS="Senha do seu usuário do banco"
+DB_HOST="Domínio ou IP onde o banco está hospedado"
+DB_PORT="Número da porta onde o banco está rodando"
 ```
 ## Objetivo
 Buscamos aprimorar nossos conhecimentos sobre desenvolvimento de API e aprimorar habilidades de back-end para trabalhos futuros.

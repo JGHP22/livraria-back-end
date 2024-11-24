@@ -1,6 +1,6 @@
-##sequelizeExpress
+## sequelizeExpress
 
-#Introdução
+# Introdução
 
 Este projeto apresenta uma API que busca demonstrar o funcionamento de uma livraria, armazenando dados de login, tipos de livros e unidades armazenadas.
 
@@ -14,7 +14,7 @@ Devemos abrir o MySQL e criar uma rota. Após isso, crie um banco de dados:
 
 Após isso, você pode encerrar o MySQL.
 
-#PARTE 2: npm
+# PARTE 2: npm
 
 Após terminar o MySQL, vamos para o VS Code.
 
@@ -33,7 +33,7 @@ Após terminar o MySQL, vamos para o VS Code.
 ´npm run dev´
 
 
-#Parte 3: modificações
+# Parte 3: modificações
 
 Você terá que alterar algumas partes do código para funcionar.
 

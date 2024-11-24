@@ -10,7 +10,7 @@ PARTE 1: MySQL
 
 Devemos abrir o MySQL e criar uma rota. Após isso, crie um banco de dados:
 
-`create database "nome_do_banco_de_dados`
+```create database "nome_do_banco_de_dados```
 
 Após isso, você pode encerrar o MySQL.
 
